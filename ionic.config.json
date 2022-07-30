@@ -1,0 +1,7 @@
+{
+  "name": "NobelApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
